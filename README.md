@@ -27,6 +27,10 @@ kyt 全部変換　niko
   http://localhost:8000/
   にて完成
 
+    195  docker container logs webrick
+  196  docker container exec webrick ruby -v
+  197  docker system prune -a
+
 
 01:15:04　Dockerfileを作ろう (  
 
